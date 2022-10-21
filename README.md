@@ -1,1 +1,0 @@
-# SQL_task_edubridge
